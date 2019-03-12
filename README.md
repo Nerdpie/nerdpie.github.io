@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Nerdpie
 
-You can use the [editor on GitHub](https://github.com/Nerdpie/nerdpie.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Stuff and Things
+- Programmer by trade, geek by nature
+- Stream on [Twitch](https://www.twitch.tv/nerdpie_)
+- I dabble with a bit of this and that
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Please note that this GitHub Page is under construction!**
 
-### Markdown
+### Notes to Self
+[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+[GitHub Pages Docs](https://help.github.com/categories/github-pages-basics/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nerdpie/nerdpie.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
