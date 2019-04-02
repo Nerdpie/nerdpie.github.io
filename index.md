@@ -1,3 +1,6 @@
+---
+title: Nerdpie
+---
 ## Stuff and Things
 - Programmer by trade, geek by nature
 - Stream on [Twitch](https://www.twitch.tv/nerdpie_)
