@@ -10,4 +10,5 @@
 ### Notes to Self
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 - [GitHub Pages Docs](https://help.github.com/categories/github-pages-basics/)
+- [Hacker theme](https://github.com/pages-themes/hacker)
 
